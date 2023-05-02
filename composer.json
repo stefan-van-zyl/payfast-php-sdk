@@ -1,6 +1,6 @@
 {
-    "name": "payfast/payfast-php-sdk",
-    "description": "PayFast PHP Library",
+    "name": "bermont-digital/payfast-php-sdk-fork",
+    "description": "PayFast PHP Library | Bermont Digital Fork",
     "keywords": [
         "payfast",
         "api",
