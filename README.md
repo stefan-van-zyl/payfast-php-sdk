@@ -1,4 +1,6 @@
-# PayFast PHP SDK
+# PayFast PHP SDK FORK
+
+## See original repo at - https://github.com/PayFast/payfast-php-sdk
 
 The PayFast PHP SDK provides an easy-to-use library for integrating PayFast payments into your project.
 This includes Custom Integration, Onsite Integration and all APIs.
@@ -16,7 +18,7 @@ See the [Developer Docs](https://developers.payfast.co.za/docs)
 You can install the library via [Composer](http://getcomposer.org/). Run the following command:
 
 ```bash
-composer require payfast/payfast-php-sdk
+composer bermont-digital/payfast-php-sdk-fork
 ```
 
 To use the library, use Composer's [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading):
