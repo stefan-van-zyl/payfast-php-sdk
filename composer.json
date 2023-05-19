@@ -1,6 +1,6 @@
 {
-    "name": "bermont-digital/payfast-php-sdk-fork",
-    "description": "PayFast PHP Library | Bermont Digital Fork",
+    "name": "stefan-van-zyl/payfast-php-sdk-fork",
+    "description": "PayFast PHP Library | Stefan Van Zyl Fork",
     "keywords": [
         "payfast",
         "api",
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Luke",
-            "email": "luke@bermont.digital"
+            "name": "Stefan",
+            "email": "stefan@datatill.com"
         }
     ],
     "minimum-stability": "stable",
